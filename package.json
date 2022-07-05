@@ -1,5 +1,5 @@
 {
-  "name": "sluggify",
+  "name": "@skeddles/sluggify",
   "version": "1.0.0",
   "description": "converts a string into slug",
   "main": "index.js",
