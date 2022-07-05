@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "skeddles",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "github:skeddles/sluggify"
 }
