@@ -15,7 +15,7 @@ First, install with
 Then just require it as a node module. It will return a syncronous function which takes in your input string, and returns the newly made slug.
 
 ```js
-const sluggify = require('sluggify');
+const sluggify = require('@skeddles/sluggify');
 let slug = sluggify('Pokémon Red');
 console.log(slug);
 ```
